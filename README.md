@@ -10,3 +10,7 @@ De stekker zou ook in een stopcontact passen.
 Dit is niet de bedoeling.
 Hiermee is de bluetooth module kapot,
 en nog erger dat is heel erg gevaarlijk voor de gebruiker.
+
+![WhatsApp Image 2026-02-18 at 16 25 24 (3)](https://github.com/user-attachments/assets/e5e06fa9-79dd-4392-9e21-844043986315)
+![WhatsApp Image 2026-02-18 at 16 25 24 (1)](https://github.com/user-attachments/assets/fc115711-c1b6-48d3-a44e-666c271da448)
+
