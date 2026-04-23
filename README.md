@@ -1,5 +1,7 @@
 # Bluetooth-reciever-voor-buizenradio-s
-**Release V1.0**
+## **Release V1.0**
+
+
 Bluetooth ontvanger voor buizenradio's en versterkers
 
 Met deze handige stekker kan bluetooth worden toegevoegd aan de meeste buizen radio's/versterkers.
@@ -24,7 +26,7 @@ en nog erger dat is heel erg gevaarlijk voor de gebruiker.
 
 ![WhatsApp Image 2026-02-18 at 16 25 24 (1)](https://github.com/user-attachments/assets/fc115711-c1b6-48d3-a44e-666c271da448)
 
-**UPDATE V1.1**
+## **UPDATE V1.1**
 
 Op dit moment is er een 2e versie leverbaar, welke een pennetje heeft in het midden.
 Daardoor past de stekker niet langer in het stopcontact.
