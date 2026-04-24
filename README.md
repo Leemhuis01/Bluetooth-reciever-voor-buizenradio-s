@@ -28,7 +28,7 @@ en nog erger dat is heel erg gevaarlijk voor de gebruiker.
 
 ## **UPDATE V1.1**
 
-Op dit moment is er een 2e versie leverbaar, welke een pennetje heeft in het midden.
+Op dit moment maak ik de V1.1 versie leverbaar, welke een pennetje heeft in het midden.
 Daardoor past de stekker niet langer in het stopcontact.
 zodat de stekker in onderstaande aansluiting past.
 
