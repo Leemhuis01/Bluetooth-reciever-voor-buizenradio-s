@@ -1,4 +1,5 @@
-# Bluetooth-reciever-voor-buizenradio-s
+# Bluetooth reciever voor buizenradio-s
+English below
 ## **Release V1.0**
 
 
@@ -34,4 +35,22 @@ zodat de stekker in onderstaande aansluiting past.
 
 <img width="356" height="163" alt="image" src="https://github.com/user-attachments/assets/4fcf846d-d248-47d6-985c-7800f921034f" />
 
+## Bluetooth Receiver for Tube Radios and Amplifiers (ENG)
 
+With this handy plug, Bluetooth can be added to most tube radios and amplifiers.
+The plug can be connected to the radio using two banana plugs. Power is supplied through the USB-C connector with a 5V source.
+I have personally tested these plugs with a Philips 640A, EL6400, and B5X62A.
+The positive (audio) connection is the banana plug located behind the USB-C connector. This means that when the USB-C connector is facing upward, the positive banana plug should be inserted into the left socket of the device.
+
+# WARNING!
+
+The plug may also fit into a mains power outlet.
+This is not intended.
+Doing so will destroy the Bluetooth module and, even more importantly, is extremely dangerous for the user.
+
+## UPDATE V1.1
+
+I am currently making the V1.1 version available. This version includes a center pin, preventing the plug from fitting into a mains power outlet.
+The center pin is designed so that the plug fits only into the connector shown below.
+
+<img width="356" height="163" alt="image" src="https://github.com/user-attachments/assets/4fcf846d-d248-47d6-985c-7800f921034f" />
