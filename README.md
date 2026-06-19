@@ -2,6 +2,8 @@
 English below
 
 demo: https://www.youtube.com/watch?v=kN3LVDaI7hc
+
+verkoop/sale: https://github.com/Leemhuis01/Products
 ## **Release V1.0**
 
 
