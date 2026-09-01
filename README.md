@@ -4,6 +4,17 @@ English below
 demo: https://www.youtube.com/watch?v=kN3LVDaI7hc
 
 verkoop/sale: https://github.com/Leemhuis01/Products
+## **UPDATE V1.1**
+
+Op dit moment maak ik de V1.1 versie leverbaar, welke een pennetje heeft in het midden.
+Daardoor past de stekker niet langer in het stopcontact.
+zodat de stekker in onderstaande aansluiting past.
+
+<img width="356" height="163" alt="image" src="https://github.com/user-attachments/assets/4fcf846d-d248-47d6-985c-7800f921034f" />
+
+
+<img width="256" height="302" alt="Screenshot 2026-09-01 074553_edited" src="https://github.com/user-attachments/assets/278a70df-238a-4ee8-b01c-d7b603f206c7" />
+
 ## **Release V1.0**
 
 
@@ -27,17 +38,9 @@ Dit is niet de bedoeling.
 Hiermee is de bluetooth module kapot,
 en nog erger dat is heel erg gevaarlijk voor de gebruiker.
 
-<img width="1031" height="664" alt="image" src="https://github.com/user-attachments/assets/3f570372-68da-485d-9a8d-893785bad02b" />
-
 ![WhatsApp Image 2026-02-18 at 16 25 24 (1)](https://github.com/user-attachments/assets/fc115711-c1b6-48d3-a44e-666c271da448)
 
-## **UPDATE V1.1**
 
-Op dit moment maak ik de V1.1 versie leverbaar, welke een pennetje heeft in het midden.
-Daardoor past de stekker niet langer in het stopcontact.
-zodat de stekker in onderstaande aansluiting past.
-
-<img width="356" height="163" alt="image" src="https://github.com/user-attachments/assets/4fcf846d-d248-47d6-985c-7800f921034f" />
 
 ## Bluetooth Receiver for Tube Radios and Amplifiers (ENG)
 
